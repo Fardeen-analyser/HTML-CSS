@@ -1,0 +1,36 @@
+body{
+    background-color: lightgreen;
+    font: bolder;
+}
+
+.top{
+    height: 50px;
+    width: auto;
+    text-align: center;
+}
+
+.middle{
+    background-color: lightyellow;
+    max-width: 500px;
+    height: 900px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+.form-control{
+    margin-bottom: 25px;
+}
+
+.form-control label{
+    display: block;
+    margin-bottom: 10px;
+}
+
+button{
+    background-color: green;
+    margin-left: 29px;
+    height:auto;
+    width: 400px;
+}
