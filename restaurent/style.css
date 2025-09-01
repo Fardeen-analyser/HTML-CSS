@@ -1,0 +1,59 @@
+
+
+body{
+    background-image: url("restaurent_image.jpg");
+    background-size: cover;
+    
+}
+
+.header{
+    text-align: center;
+    justify-content: space-evenly;
+    display: flex;
+    margin-top: 76px;
+} 
+
+.image{
+    height: 200px;
+    width: 200px;
+    background-color: aliceblue;
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.name{
+    height: 20px;    
+    color: pink;
+
+}
+
+.button {
+    display: flex;
+    justify-content: end;
+}
+
+button {
+    height: 30px;
+    width: 80px;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: aquamarine;
+}
+
+
+.second{
+    align-items: center;
+    display: flex;
+    position:relative;
+    padding-top: 300px;
+    padding-left: 320px;
+    
+}
+
+.new2{
+    justify-content: space-between;
+    margin-left: 150px;
+}
