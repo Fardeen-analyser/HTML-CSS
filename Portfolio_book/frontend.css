@@ -1,0 +1,24 @@
+body{
+    height: 30px;
+    width: auto;
+    background-color: blue;
+}
+
+.Projects{
+    height: 500px;
+    width: auto;
+    background-color: aqua;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.number {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    display: inline-flex;
+    margin-top: 110px;
+
+    box-shadow: 2px 5px 10px rgba(0,0,0,0.9);
+}
